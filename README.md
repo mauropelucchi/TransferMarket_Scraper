@@ -2,6 +2,10 @@
 
 This scraper (based on Jsoup) downloads all-data from https://www.transfermarkt.it/serie-a and create a basic CSV file with
 name, role, season, ... of each player.
+All the code is based on Java Jsoup framework with CSS Selector.
+
+The statistical data is scraped from WhoScored.com (for Serie A 2017/2018). This dataset is parsed with Google Gson API.
+
 
 # MIT License
 
